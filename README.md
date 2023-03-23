@@ -20,5 +20,8 @@
 <!--   <img alt="Echo" src="https://img.shields.io/badge/-Echo-03A9F4?style=flat-square&logo=echo&logoColor=white" /> -->
 </p>
 
+## Commit
+![github stats](https://github-readme-stats.vercel.app/api?username=inutwp&show_icons=true)
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-pambudi) 
