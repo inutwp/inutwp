@@ -21,7 +21,7 @@
 </p>
 
 ## Commit
-![github stats](https://github-readme-stats.vercel.app/api?username=inutwp&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=inutwp&&theme=codeSTACKr&show_icons=true)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-pambudi) 
