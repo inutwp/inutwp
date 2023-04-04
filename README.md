@@ -25,6 +25,3 @@
     <img align="center" alt="inutwp's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inutwp&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&theme=codeSTACKr" />
 </a>
 </p>
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-pambudi) 
