@@ -4,7 +4,7 @@
 - Interested in BackEnd Dev, DevOps, Data Scraping, and Audio Hardware Enginering
 
 ## Tech Stack
-<p>
+<p align="center">
 <!--   <img alt="Go" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" /> -->
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7B1FA2?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F44336?style=flat-square&logo=laravel&logoColor=white" />
@@ -20,8 +20,11 @@
 <!--   <img alt="Echo" src="https://img.shields.io/badge/-Echo-03A9F4?style=flat-square&logo=echo&logoColor=white" /> -->
 </p>
 
-## Commit
-![github stats](https://github-readme-stats.vercel.app/api?username=inutwp&&theme=codeSTACKr&show_icons=true)
+<p align="center">
+  <a href="https://github.com/inutwp/github-readme-stats">
+    <img align="center" alt="inutwp's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inutwp&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&theme=codeSTACKr" />
+</a>
+</p>
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-pambudi) 
