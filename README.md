@@ -1,6 +1,6 @@
 ## About Me
 
-- Currently working on UPT TIK Lampung University as Full Stack Developer
+- Currently working on UPT TIK Lampung University as Software Developer
 - Interested in BackEnd Dev, DevOps, Data Scraping, and Audio Hardware Enginering
 
 <!-- ## Tech Stack -->
