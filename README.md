@@ -1,5 +1,5 @@
-## About Me
-
+![1684140351041](https://github.com/inutwp/nangjogja/assets/39829640/a7add89e-865d-4d38-a902-211abc8c879b)
+##
 - Currently working on UPT TIK Lampung University as Software Developer
 - Interested in BackEnd Dev, DevOps, Data Scraping, and Audio Hardware Enginering
 
