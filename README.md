@@ -1,5 +1,4 @@
-![banner_linkedin](https://github.com/inutwp/nangjogja/assets/39829640/02caf1a1-eb64-47ae-ad67-21b48b1e8257)
-##
+<!--![banner_linkedin](https://github.com/inutwp/nangjogja/assets/39829640/02caf1a1-eb64-47ae-ad67-21b48b1e8257)-->
 - Currently working as API Engineer on Citos Corporation and Operational Staff on PO SUMEX 97
 - Interested in BackEnd Dev, DevOps, Data Scraping, and Audio Hardware Enginering
 
